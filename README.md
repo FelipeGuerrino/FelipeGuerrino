@@ -3,7 +3,7 @@
 - I'm taking a fullstack web and mobile course on "SENAC" 🔥 
 - Looking forward on a job opportunity 👀
 - My main skills: Python, C#, .NET Core and JS
-- Currently Learning: Java
+- Currently Learning: Rust
 
 <!---
 RoB-CM/RoB-CM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
