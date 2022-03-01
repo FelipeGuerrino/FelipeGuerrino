@@ -1,8 +1,8 @@
 - Hi, I’m Felipe Guerrino 😎
 - I'm 16, and i love coding, especially in Python! 🐍
-- I'm taking a fullstack web and mobile course on "SENAC" 🔥 
+- I'm taking a full-stack web and mobile course on "SENAC" 🔥 
 - Looking forward on a job opportunity 👀
-- My main skills: Python, C#, .NET Core and JS
+- My main skills: Python, ASP.NET Core and JS
 - Currently Learning: ReactJS
 
 <!---
