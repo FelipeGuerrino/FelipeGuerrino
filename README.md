@@ -1,9 +1,8 @@
 - Hi, I’m Felipe Guerrino 😎
 - I'm 16, and i love coding, especially in Python! 🐍
 - I'm taking a full-stack web and mobile course on "SENAC" 🔥 
-- Looking forward on a job opportunity 👀
 - My main skills: Python, ASP.NET Core and ReactJS
-- Currently Learning: REST APIs
+- Currently working as a freelancer 
 
 <!---
 RoB-CM/RoB-CM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
