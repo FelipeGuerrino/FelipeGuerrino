@@ -1,5 +1,5 @@
 - Hi, I’m Felipe Guerrino 😎
-- I'm 17, and i love coding, especially in Python! 🐍
-- I'm taking a full-stack web and mobile course on "SENAC" 🔥 
+- I'm 17, and I love coding, especially in Python! 🐍
+- Computer Technician graduated from SENAC 🔥 
 - My main skills: Python, ASP.NET Core and ReactJS
-- Looking for work!
+- Studying Computer Science at São Paulo Tech School 🧠
